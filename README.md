@@ -28,3 +28,6 @@ Nesta primeira etapa do curso Fundamentos de Data Science e Inteligência Artifi
 
 * **Bibliografia, Referências e Links Úteis** — Material de apoio e indicações para aprofundamento.
 
+## 📌 Fundamentos de Data Science - Parte 1
+
+Este  capítulo  traz  uma  introdução  ao  universo  da  Ciência  de  Dados,  sua definição, importância, ética e privacidade, além de perspectivas de carreira.
