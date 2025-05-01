@@ -347,6 +347,12 @@ O verdadeiro **valor** não está somente nos dados ou nas análises isoladas. E
 
 🎯 O papel do profissional é ajudar a empresa no dia a dia, aplicando ciência de dados para apoiar decisões e ações mais eficazes. Esse é o verdadeiro **processo data-driven: um processo orientado a dados**.
 
+
+
+
+# Ética em Ciência de Dados
+
+
 </div>
 
 
